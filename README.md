@@ -1,9 +1,17 @@
-# Cybersecurity Lab Series
+# cybersecurity-lab-series
 
-## Description
-Educational scripts for network scanning and VoIP traffic analysis. For learning purposes only.
+## Purpose
+Hands-on labs for learning offensive and defensive cybersecurity skills.
 
-## How to Run
-python network_scan.py
-python voip_analysis.py
+## Features
+- Key features and functionalities of the project
 
+## Installation / Usage
+- How to install and run the project
+- Example usage if applicable
+
+## Tech Stack
+- Python, Libraries, Tools used
+
+## Notes
+- Any special notes or warnings
